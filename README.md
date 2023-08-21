@@ -1,6 +1,6 @@
 # Online_Payment_Wallet_Application
 
-The MZ Project is an application built using Java, Spring Boot, JPA, and an Oracle Database. It provides various functionalities related to banking, including creating user accounts, depositing and withdrawing funds, performing fund transfers, viewing transaction history, and more.
+The Online_Payment_Wallet_Application is an application built using Java, Spring Boot, JPA, and an Oracle Database. It provides various functionalities related to banking, including creating user accounts, depositing and withdrawing funds, performing fund transfers, viewing transaction history, and more.
 
 createAccount(User user): Creates a new user account and returns the account number.
 
